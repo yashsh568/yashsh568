@@ -2,12 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
 <h3 align="center">CODING ENTHUSIASTIC | COMPETITIVE PROGRAMMER | MACHINE LEARNING | HAVING INTEREST IN DATA SCIENCE (INTERDISCIPLINARY FIELD)</h3>
-<img align="right" alt="Coding" width="400" src"https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsh568&label=Profile%20views&color=0e75b6&style=flat" alt="yashsh568" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashsh568" alt="yashsh568" /></a> </p>
 
 - 🌱 I’m currently learning **DSA using cpp**
 
