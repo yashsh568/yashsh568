@@ -1,7 +1,7 @@
 [![MasterHead](https://3.bp.blogspot.com/-1TUnd-5tB84/Uu-z_w9I5jI/AAAAAAAAAZE/sOYiuPRaLiA/s1600/sample.gif.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
-<h3 align="center">CODING ENTHUSIASTIC | COMPETITIVE PROGRAMMER | MACHINE LEARNING | HAVING INTEREST IN DATA SCIENCE (INTERDISCIPLINARY FIELD)</h3>
+<h3 align="center">TECH ENTHUSIAST || PROGRAMMER</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 
